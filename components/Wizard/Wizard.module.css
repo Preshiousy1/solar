@@ -1,0 +1,14 @@
+.hello{
+    background-color: red;
+}
+.content{
+    min-height: 400px;
+    max-height: 500px;
+    
+    margin: 20px;
+    padding: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    overflow-y: wrap;
+    overflow-x: wrap;
+}

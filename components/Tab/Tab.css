@@ -1,0 +1,14 @@
+.main-tab .form-control{
+    width: 80px;
+    height: 30px;
+}
+label , .left{
+    font-weight: bold;
+    color: rgb(95, 95, 95);
+}
+.display-inline {
+    display: inline !important;
+}
+.display-block {
+    display: block;
+}

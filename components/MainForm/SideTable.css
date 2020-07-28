@@ -1,0 +1,12 @@
+.red-line{
+    border-left: 1px solid red !important;
+}
+.black-line{
+    border-right: 1px solid black !important;
+}
+.green-line{
+    border-right: 1px solid green !important;
+}
+.border-black{
+    border-bottom: 1px solid black;
+}

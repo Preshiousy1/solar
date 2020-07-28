@@ -1,0 +1,15 @@
+.navb{
+    width: 100%;
+    height: 50px;
+    background-color: #ccc;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(102, 182, 102);
+    margin-top: 5px;
+}
